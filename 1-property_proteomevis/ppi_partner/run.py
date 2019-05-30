@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = 'find which protein pairs in seq2struc form PPIs'
 

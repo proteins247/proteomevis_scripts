@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = "PDB complex file to PDB chains' files"
 

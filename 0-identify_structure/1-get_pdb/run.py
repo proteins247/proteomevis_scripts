@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = "programmatically download PDB complexes' structures"
 #some big structures need to be manually downloaded ('bundle' in filenames) 
