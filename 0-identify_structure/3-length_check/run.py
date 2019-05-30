@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = 'remove pre_seq2struc proteins whose PDB length is 0.8 times less than reported UniProt chain length' #(selection criterion 2) 
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = 'calculate contact density from PDB structure file'
 

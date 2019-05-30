@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = 'get uniprot length of entire proteome'
 #name is run_length rather than run because import run module

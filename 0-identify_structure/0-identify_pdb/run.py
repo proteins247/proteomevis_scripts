@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 help_msg = 'generate all possible UniProt sequences with matching PDB structures using the SIFTS resource'	#selection criterion 1
 #UniProt is updated on a rolling basis
